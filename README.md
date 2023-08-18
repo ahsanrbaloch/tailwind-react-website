@@ -1,7 +1,7 @@
 # Tailwind and React js
 ## Screenshots
 
-##Web App
+## Web App
 ![image](https://github.com/ahsanrbaloch/tailwind-react-website/assets/72220980/441f28c4-761c-4f3a-8b4d-35f0532ba73a)
 
 ![image](https://github.com/ahsanrbaloch/tailwind-react-website/assets/72220980/cb192801-75af-420d-9aa9-f4c3126c63b5)
@@ -13,7 +13,7 @@
 ![image](https://github.com/ahsanrbaloch/tailwind-react-website/assets/72220980/169c97d4-6900-431a-b45e-37701c74fa12)
 
 
-##Mobile Version
+## Mobile Version
 ![image](https://github.com/ahsanrbaloch/tailwind-react-website/assets/72220980/5df02ca1-9037-4329-8e3a-4a2901671ff3)
 
 ![image](https://github.com/ahsanrbaloch/tailwind-react-website/assets/72220980/0e077a36-0fcb-444d-9c0b-1a71ab89ab56)
